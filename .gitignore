@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# System files (macOS, Linux, Windows)
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Optional npm cache directory
+.npm
+
+# Debugging files
+*.log
